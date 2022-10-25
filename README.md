@@ -1,1 +1,1 @@
-# ComputerGraphics
+# ComputerGraphics_OpenGl
