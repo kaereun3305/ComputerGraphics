@@ -6,6 +6,8 @@
 #include <glm/gtc/matrix_transform.hpp>
 #include <glm/gtc/type_ptr.hpp>
 
+//해당 코드는 HW#2 5번 문제의 오답 문제입니다.
+
 using namespace std;
 
 void display_v3(string tag, glm::vec3 v3)
